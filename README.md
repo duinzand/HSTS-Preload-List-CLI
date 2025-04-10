@@ -30,3 +30,20 @@ Example:
 ```bash
 python3 ./HSTS-Preload-List-CLI.py example.com
 ```
+```
+$\color{blue}{\text{[+] General Information:}}$
+    Name:               example.com
+    Status:             unknown
+    Bulk:               False
+    Preloaded Domain:
+
+[+] Errors found: 2
+
+[-] code: response.no_header
+    summary: No HSTS header
+    message: Response error: No HSTS header is present on the response.
+
+[-] code: redirects.http.no_redirect
+    summary: No redirect from HTTP
+    message: `http://example.com` does not redirect to `https://example.com`.
+```
