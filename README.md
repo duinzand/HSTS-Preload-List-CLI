@@ -30,8 +30,9 @@ Example:
 ```bash
 python3 ./HSTS-Preload-List-CLI.py example.com
 ```
+Output of Example:
 ```
-$\color{blue}{\text{[+] General Information:}}$
+[+] General Information:
     Name:               example.com
     Status:             unknown
     Bulk:               False
