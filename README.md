@@ -28,5 +28,5 @@ python3 ./HSTS-Preload-List-CLI YOURDOMAIN
 
 Example: 
 ```bash
-python3 ./HSTS-Preload-List-CLIexample.com
+python3 ./HSTS-Preload-List-CLI example.com
 ```
