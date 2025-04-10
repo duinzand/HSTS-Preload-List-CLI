@@ -23,10 +23,10 @@ cd ./HSTS-Preload-List-CLI
 ## Usage
 Replace YOURDOMAIN with your domain.
 ```bash
-python3 ./HSTS-Preload-List-CLI YOURDOMAIN
+python3 ./HSTS-Preload-List-CLI.py YOURDOMAIN
 ```
 
 Example: 
 ```bash
-python3 ./HSTS-Preload-List-CLI example.com
+python3 ./HSTS-Preload-List-CLI.py example.com
 ```
